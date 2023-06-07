@@ -5,15 +5,21 @@
 
 ## Who Is This Course for?
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam non quam sit ea, est mollitia sed doloribus autem quibusdam dolorum, accusamus nemo quasi fuga sint. Quibusdam, doloremque tempore.
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam non quam sit ea, est mollitia sed doloribus autem quibusdam dolorum, accusamus nemo quasi fuga sint. Quibusdam, doloremque tempore, est mollitia sed doloribus autem quibusdam dolorum, accusamus nemo quasi fuga sint. Quibusdam, doloremque tempor.
 
 ## Course outline
 ### Overview
+- Git, HTML and CSS overview
+- JavaScript (ES6+)
+- NodeJS, ExpressJs
 
-### 1 weak :
-[Git and Github](https://youtu.be/vbH9gMqJ5GQ), HTML and CSS overview &nbsp;
+### Details
 
-### Weak 2 :
+#### 1 weak :
+In weak one we will have overview of
+[Git and Github](https://youtu.be/vbH9gMqJ5GQ), HTML and CSS.
+
+#### Weak 2 :
 
 First draft of chatGPT syllabus, 
 Inshallah this syllabus will be taught in Saylani SMIT as part of chatbot course very soon.
@@ -45,10 +51,14 @@ Outline:
 17. Validating fine-tuned models for weight and biases.
 Note: this syllabus is part of a bigger syllabus, infact it will be added at the end of existing chatbot course, a course that focuses on dialogflow.
 
-### Weak 4 :
+#### Weak 4 :
 Whisper API is a breakthrough, press is talking about chatgpt4 but it not released yet.
 Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
 Ai as a service is the future of Ai
+
+[ChatGPT vs Humans: Exploring ChatGPT's Potential to Replace Some Developers
+](https://youtu.be/84kL9fInMfQ)
+
 ## Resources
 
 - [Github Repo](https://github.com/mInzamamMalik/SMIT-chatbot-b3)

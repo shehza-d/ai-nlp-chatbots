@@ -5,7 +5,7 @@
 
 |   |   |
 | --- | --- |
-| Prerequisites | [*] Basic programming knowledge | List all new or modified files |
+| Prerequisites | [x] Basic programming knowledge | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
 ## Who Is This Course for?

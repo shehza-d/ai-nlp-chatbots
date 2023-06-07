@@ -22,12 +22,12 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 ### Overview
 
-- `Git`, `HTML` and `CSS` overview
-- `JavaScript` (ES6+) &nbsp;&nbsp;&nbsp;~~No Python~~
-- `NodeJS`, `ExpressJs`
+- **`Git`**, **`HTML`** and **`CSS`** overview
+- **`JavaScript`** (ES6+) &nbsp;&nbsp;&nbsp;~~No Python~~
+- **`NodeJS`**, **`ExpressJs`**
 - **`DialogFlow`**
-- *`ChatGPT API tuning`*
-- *`Whisper API`*
+- **`ChatGPT API tuning`**
+- **`Whisper API`**
 
 ### Details
 
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
 **AI as a service is the future of AI**
 
-Note: this syllabus is part of a bigger syllabus, infact it will be added at the end of existing chatbot course.
+**Note :** this syllabus is part of a bigger syllabus, infact it will be added at the end of existing chatbot course.
 
 
 ## Course Resources

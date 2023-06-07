@@ -1,5 +1,5 @@
 <h1 align='center'>Generative AI Chatbot Course</h1>
-<h2 align='center'>Building and Integrating Artificial Intelligence Chatbots and Voice Application with Dialogflow and ChatGPT 3</h2>
+<h2 align='center'>Building and Integrating Artificial Intelligence Chatbots and Voice Applications with Dialogflow and ChatGPT 3</h2>
 <h4 align='center'><i>Talk to the future of computing.</i></h4>
 
 <img src='./readme-assets/cover.png'/>
@@ -25,9 +25,9 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 - `Git`, `HTML` and `CSS` overview
 - `JavaScript` (ES6+) &nbsp;&nbsp;&nbsp;~~No Python~~
 - `NodeJS`, `ExpressJs`
-- `DialogFlow`
-- `ChatGPT` API tuning
-- `Whisper` API
+- **`DialogFlow`**
+- *`ChatGPT API tuning`*
+- *`Whisper API`*
 
 ### Details
 

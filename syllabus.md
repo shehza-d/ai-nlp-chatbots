@@ -1,12 +1,16 @@
-<h1 align='center'>Generative Artificial Intelligence Chatbot and Voice Application Development Course</h1>
+<h1 align='center'>Generative AI Chatbot Course</h1>
+<h2 align='center'>Building and Integrating Artificial Intelligence Chatbots and Voice Application with Dialogflow and ChatGPT 3</h2>
 <h3 align='center'><i>Talk to the future of computing.</i></h3>
 
 <img src='./readme-assets/cover.png'/>
 
+First draft of ChatGPT syllabus
+
+
 |   |   |
 | --- | --- |
-| Prerequisites | [x] Basic programming knowledge | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Prerequisites | [X] Basic programming knowledge | List all new or modified files |
+| Instructor | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
 
 ## Who Is This Course for?
 
@@ -16,12 +20,12 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 ### Overview
 
-- Git, HTML and CSS overview
-- JavaScript (ES6+) &nbsp;&nbsp;&nbsp;~~No Python~~
+- `Git`, `HTML` and `CSS` overview
+- `JavaScript` (ES6+) &nbsp;&nbsp;&nbsp;~~No Python~~
 - `NodeJS`, `ExpressJs`
 - `DialogFlow`
-- ChatGPT API tuning
-- Whisper API
+- `ChatGPT` API tuning
+- `Whisper` API
 
 ### Details
 
@@ -30,21 +34,11 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 2. `JavaScript` programming fundamental (ES6) (3 weeks)
 
-3.
-	- Crud operation in react
-	- Styling react app
-	- Chat app with react
-(Weaks 4)
+3. Basic `ReactJs` - Crud operation in ReactJs - Styling ReactJs app - Chat app with ReactJs
+   (Weaks 2)
 
 #### Weak 3
 
-First draft of chatGPT syllabus,
-Inshallah this syllabus will be taught in Saylani SMIT as part of chatbot course very soon.
-and this course will be free of cost in saylani
-Title:
-Building and Integrating a Chatbot with Dialogflow and ChatGPT3
-Instructor:
-M. Inzamam Malik (https://github)
 Objective:
 ChatGPT is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
 This course will offer comprehensive insights not only on ChatGPT APIs but also provide guidance on how such new forms of AI can be utilized by application developers. With the ChatGPT gold rush already underway, the ultimate aim of this course is to equip participants with the necessary skills to become part of this technological revolution.

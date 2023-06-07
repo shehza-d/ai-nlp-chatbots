@@ -1,5 +1,5 @@
 <h1 align='center'>Generative AI Chatbot Course</h1>
-<h2 align='center'>Building and Integrating Artificial Intelligence Chatbots and Voice Applications with Dialogflow and ChatGPT 3</h2>
+<h2 align='center'>🖥 Building and Integrating Artificial Intelligence Chatbots and Voice Applications with Dialogflow and ChatGPT3</h2>
 <h4 align='center'><i>Talk to the future of computing.</i></h4>
 
 <img src='./readme-assets/cover.png'/>
@@ -8,6 +8,9 @@
 | --- | --- |
 | Prerequisites | Basic programming knowledge | List all new or modified files |
 | Instructor | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" />
+<img height='50' width='50' src="./readme-assets/icons/dialogflow.png"/></p>
 
 ## Objective:
 
@@ -31,8 +34,11 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 ### Details
 
-1. In weak one we will have an overview of
-   [`Git and Github`](https://youtu.be/vbH9gMqJ5GQ), `HTML` and `CSS`. (1 week)
+1. In weak one we will have an overview of :
+
+	- [`Git and Github`](https://youtu.be/vbH9gMqJ5GQ)
+	- [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
+(1 week)
 1. Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share), and ChatGPT
 2. `JavaScript` programming fundamental (ES6). (3 weeks)
 3. Basic `ReactJs`

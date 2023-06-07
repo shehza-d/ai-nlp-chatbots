@@ -14,7 +14,7 @@
 
 ## Objective:
 
-ChatGPT is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
+[ChatGPT](https://openai.com/blog/chatgpt) is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
 This course will offer comprehensive insights not only on ChatGPT APIs but also provide guidance on how such new forms of AI can be utilized by application developers. With the ChatGPT gold rush already underway, the ultimate aim of this course is to equip participants with the necessary skills to become part of this technological revolution.
 
 ## Who Is This Course for?
@@ -62,8 +62,8 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 15. Using existing fine-tuned models.
 16. Further fine-tuning on existing fine-tuned models.
 17. Validating fine-tuned models for weight and biases.
-    
-`Whisper API` is a breakthrough, press is talking about ChatGPT 4 but it not released yet.
+
+[`Whisper API`](https://github.com/openai/whisper) is a breakthrough, press is talking about ChatGPT 4 but it not released yet.
 Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
 **AI as a service is the future of AI**
 

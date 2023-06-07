@@ -3,9 +3,26 @@
 
 <img src='./readme-assets/qatarinnovationweek.jpeg'/>
 
-### 1 weak :
+## Who Is This Course for?
 
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam non quam sit ea, est mollitia sed doloribus autem quibusdam dolorum, accusamus nemo quasi fuga sint. Quibusdam, doloremque tempore.
+
+## Course outline
+
+<div>
+<p align='right'>weak 1</p>
 GIT, HTML and CSS overview &nbsp;
+
+</div>
+
+<div>
+<p align='right'>weak 1</p>
+GIT, HTML and CSS overview &nbsp;
+
+</div>
+
+<!-- ### 1 weak : -->
+
 
 ## Resources
 

@@ -1,4 +1,4 @@
 /*
-hic ai 
+hci human computer interface
 LLM
 */

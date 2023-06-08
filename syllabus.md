@@ -10,7 +10,7 @@
 | Instructor | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
 
 <p align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" />
-<img height='50' width='50' src="./readme-assets/icons/dialogflow.png"/></p>
+<img height='50' width='50' src="./readme-assets/icons/dialogflow.png"/><img height='50' width='50' src="./readme-assets/icons/open-ai-10px.png"/></p>
 
 ## Objective:
 

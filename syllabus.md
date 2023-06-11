@@ -17,8 +17,7 @@
 
 ## Objective:
 
-In this course you will learn how to make state of the art AI Chatbots.
-
+In this course you will learn how to make state of the art AI Chatbots.<br>
 [ChatGPT](https://openai.com/blog/chatgpt) is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
 This course will offer comprehensive insights not only on ChatGPT APIs but also provide guidance on how such new forms of AI can be utilized by application developers. With the ChatGPT gold rush already underway, the ultimate aim of this course is to equip participants with the necessary skills to become part of this technological revolution.
 

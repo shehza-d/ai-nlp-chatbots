@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - Express.js middleware
     - Express.js Static file server
 
-1.  [&nbsp;`MongoDB`](https://learn.mongodb.com/)
+1.  &nbsp;[`MongoDB`](https://learn.mongodb.com/)
  
     - Introduction to MongoDB Database
     - MongoDB Schema and model
@@ -104,8 +104,8 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 1.  Further fine-tuning on existing fine-tuned models.
 1.  Validating fine-tuned models for weight and biases.
 
-[`Whisper API`](https://github.com/openai/whisper) is a breakthrough, press is talking about ChatGPT 4 but it not released yet.
-Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
+	[`Whisper API`](https://github.com/openai/whisper) is a breakthrough, press is talking about ChatGPT 4 but it not released yet.
+	Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
 **AI as a service is the future of AI**
 
 ## Scope

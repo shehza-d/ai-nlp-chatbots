@@ -13,11 +13,11 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" />
 <img height='50' width='50' src="./readme-assets/icons/dialogflow.png"/><img height='50' width='50' src="./readme-assets/icons/open-ai-10px.png"/></p>
 
-In this course you will learn how to make state of the art AI Chatbots
-
  <!-- Google Assistant apps you will learn latest technologies Google Dialoglfow v2,  -->
 
 ## Objective:
+
+In this course you will learn how to make state of the art AI Chatbots.
 
 [ChatGPT](https://openai.com/blog/chatgpt) is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
 This course will offer comprehensive insights not only on ChatGPT APIs but also provide guidance on how such new forms of AI can be utilized by application developers. With the ChatGPT gold rush already underway, the ultimate aim of this course is to equip participants with the necessary skills to become part of this technological revolution.
@@ -41,31 +41,49 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 1.  In weak one we will have an overview of :
 
-        - [`Git and Github`](https://youtu.be/vbH9gMqJ5GQ)
-        - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
-
-    (1 week)
+    - [`Git and Github`](https://youtu.be/vbH9gMqJ5GQ)
+    - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
+      (1 week)
 
 1.  Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share), and ChatGPT
-1.  `JavaScript` programming fundamental (ES6). (3 weeks)
-	|   |   |
-	| --- | --- |
-	| Variables | Boolean, Number, String, Array, Objects|
-	|Math Operators|+ - * / % -- ++|
-	|Conditional Statements |If else, ternary operator
-	|Conditional operators| === !== < > <= >=
-	|Logical operators|&&  \|\|  !
+1.  `JavaScript` programming fundamental (ES6+) (3 weeks)
+    |   |   |
+    | --- | --- |
+    | Variables | Boolean, Number, String, Array, Objects|
+    |Math Operators|+ - \* / % -- ++|
+    |Conditional Statements |If else, ternary operator|
+    |Conditional operators| === !== < > <= >=|
+    |Logical operators|&& &nbsp; \|\| &nbsp; !|
+    |Loop Statements |For loop, map|
+    |ES6 functions|
 
-	- Loop Statements (For loop, map)
-	- ES6 functions
-	- Graded Quiz
-
-
-1.  Basic `ReactJs`
-    - Crud operation in ReactJs
-    - Styling ReactJs app
+1.  `ReactJS` Integration (2 weeks)
+    - Basic introduction to react
+    - Chatbot popup using react-chat-widget in existing react.js web app
+    - CRUD operation in ReactJs
     - Chat app with ReactJs.
-      (weeks 2)
+    - React.js is not fully covered in this course!
+1.  Writing JavaScript `Servers` with and `Express.js/Node.js` (4 weeks)
+
+    - Introduction to Servers
+    - Express.js GET, POST, PUT, DELETE
+    - Express.js middleware
+    - Express.js Static file server
+    - Introduction to MongoDB Database
+    - `MongoDB` Schema and model
+    - MongoDB CRUD Operation
+
+1.  `Dialogflow` V2 (4 weeks)
+    - Intent
+    - Entity
+    - Fulfilment
+    - Context
+1.  3 Real life Chatbots Integrations for hands-on practice
+
+    - Hotel booking Assistant
+    - Online Store Assistant
+    - Weather Assistant
+
 1.  Introduction to the `OpenAI` Completion Model and Completion Endpoint.
 1.  Introduction to the OpenAI Playground.
 1.  How to Designing a better prompt.
@@ -76,7 +94,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 1.  `Fine-tuning` techniques.
 1.  Introduction to the JSONL document.
 1.  Introduction to OpenAI CLI tools.
-1.  Building your own fine-tuned model.
+1.  Building your own `fine-tuned model`.
 1.  Entity extraction.
 1.  Introduction to hyper-parameters.
 1.  Using existing fine-tuned models.

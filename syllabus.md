@@ -30,8 +30,9 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 ### Overview
 
 - **`Git`**, **`HTML`** and **`CSS`** overview
-- **`JavaScript`** (ES6+) &nbsp;&nbsp;&nbsp;~~No Python~~
+- **`JavaScript`** (ES6+) &nbsp;&nbsp;&nbsp;&nbsp;~~No Python~~
 - **`NodeJS`**, **`ExpressJs`**
+- **`MongoDB`**
 - **`DialogFlow`**
 - **`ChatGPT API (fine-tuning)`**
 - **`Whisper API`**
@@ -45,7 +46,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
       (1 week)
 
 1.  Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share), and ChatGPT
-1.  `JavaScript` programming fundamental (ES6+) (3 weeks)
+1.  [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
     |   |   |
     | --- | --- |
     | Variables | Boolean, Number, String, Array, Objects|
@@ -56,7 +57,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     |Loop Statements |For loop, map|
     |ES6 functions|
 
-1.  `ReactJS` Integration (2 weeks)
+1.  [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
     - Basic introduction to react
     - Chatbot popup using react-chat-widget in existing react.js web app
     - CRUD operation in ReactJs
@@ -68,8 +69,11 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - Express.js GET, POST, PUT, DELETE
     - Express.js middleware
     - Express.js Static file server
+
+1.  [&nbsp;`MongoDB`](https://learn.mongodb.com/)
+ 
     - Introduction to MongoDB Database
-    - `MongoDB` Schema and model
+    - MongoDB Schema and model
     - MongoDB CRUD Operation
 
 1.  `Dialogflow` V2 (4 weeks)

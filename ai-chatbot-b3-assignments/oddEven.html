@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+  </head>
+  <body>
+    <form id="myForm">
+      <input
+        id="numberInput"
+        type="number"
+        placeholder="Enter a number"
+        required
+      />
+      <button type="submit">Submit</button>
+    </form>
+
+    <p id="output"></p>
+
+	<a href="http://">Code link</a>
+    <script type="module">
+      const isPrime = (num) => {
+        if (num < 2) return false;
+
+        for (let i = 2; i <= num / 2; i++) {
+          if (num % i === 0) return false;
+        }
+        return true;
+      };
+
+      const form = document.querySelector("#myForm");
+
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const output = document.querySelector("#output");
+
+        const userInput = +document.querySelector("#numberInput").value;
+
+        if (!userInput || isNaN(userInput))
+          output.textContent = "Unknown Error";
+
+        if (String(userInput).length > 11) {
+          output.textContent = "Input limit exceeded";
+          return;
+        }
+        if (userInput % 2 === 0)
+          output.textContent = `The number ${userInput} is Even`;
+        else output.textContent = `The number ${userInput} is Odd`;
+
+        output.textContent += ` and this is also a ${
+          isPrime(userInput) ? "Prime" : "Composite"
+        } Number`;
+      });
+    </script>
+  </body>
+</html>

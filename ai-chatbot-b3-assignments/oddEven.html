@@ -38,8 +38,8 @@
 
       form.addEventListener("submit", (e) => {
         e.preventDefault();
+      
         const output = document.querySelector("#output");
-
         const userInput = +document.querySelector("#numberInput").value;
 
         if (!userInput || isNaN(userInput)) {

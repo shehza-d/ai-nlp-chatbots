@@ -38,7 +38,7 @@
 
       form.addEventListener("submit", (e) => {
         e.preventDefault();
-      
+
         const output = document.querySelector("#output");
         const userInput = +document.querySelector("#numberInput").value;
 
@@ -52,13 +52,9 @@
           return;
         }
 
-        if (userInput % 2 === 0)
-          output.textContent = `The number ${userInput} is Even`;
-        else output.textContent = `The number ${userInput} is Odd`;
+        output.textContent = `The number ${userInput} is ${userInput % 2 === 0 ? "Even" : "Odd"}`;
 
-        output.textContent += ` and this is also a ${
-          isPrime(userInput) ? "Prime" : "Composite"
-        } number.`;
+        output.textContent += ` and this is also a ${isPrime(userInput) ? "Prime" : "Composite"} number.`;
       });
     </script>
   </body>

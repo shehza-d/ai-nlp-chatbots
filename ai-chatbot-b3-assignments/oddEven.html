@@ -7,12 +7,8 @@
   </head>
   <body>
     <form id="myForm">
-      <input
-        id="numberInput"
-        type="number"
-        placeholder="Enter a number"
-        required
-      />
+      <!-- is didn't used this in input because i handled condition in script type="number" required -->
+      <input id="numberInput" placeholder="Enter a number" />
       <button type="submit">Submit</button>
     </form>
 
@@ -42,20 +38,28 @@
         const output = document.querySelector("#output");
         const userInput = +document.querySelector("#numberInput").value;
 
-        if (!userInput || isNaN(userInput)) {
-          output.textContent = "Unknown Error";
+        if (
+          (!userInput && !userInput === 0) ||
+          isNaN(userInput) ||
+          String(userInput).length > 11
+        ) {
+          output.textContent =
+            "Please enter a Positive integer number only with 12 digits";
           return;
         }
 
-        if (String(userInput).length > 11) {
-          output.textContent = "Input limit exceeded";
+        if (userInput === 0) {
+          output.textContent = "Zero is neither prime nor composite.";
           return;
         }
 
-        output.textContent = `The number ${userInput} is ${userInput % 2 === 0 ? "Even" : "Odd"}`;
-
-        output.textContent += ` and this is also a ${isPrime(userInput) ? "Prime" : "Composite"} number.`;
+        output.textContent = `The number ${userInput} is ${
+          userInput % 2 === 0 ? "Even" : "Odd"
+        } and this is also a ${
+          isPrime(userInput) ? "Prime" : "Composite"
+        } number.`;
       });
     </script>
   </body>
 </html>
+<!--hosted link https://shehza-d.github.io/ai-nlp-chatbots/ai-chatbot-b3-assignments/oddEven.html -->

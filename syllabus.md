@@ -1,11 +1,11 @@
 <h1 align='center'>Generative AI Chatbot Course</h1>
-<h2 align='center'>🖥 Building and Integrating Artificial Intelligence Chatbots and Voice Applications with Dialogflow and ChatGPT3</h2>
+<h2 align='center'>🖥 Building and Integrating Artificial Intelligence Chatbots and Voice Applicscratchations with Dialogflow and ChatGPT3</h2>
 <h4 align='center'><i>Talk to the future of computing.</i></h4>
 
 <img src='./readme-assets/cover.png'/>
 
 |   |   |
-| --- | --- |
+|:------------- |:----------|
 | Prerequisites | Basic programming knowledge | List all new or modified files |
 | Instructor | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
 | Duration | 6 Months|
@@ -14,6 +14,12 @@
 <img height='50' width='50' src="./readme-assets/icons/dialogflow.png"/><img height='50' width='50' src="./readme-assets/icons/open-ai-10px.png"/></p>
 
  <!-- Google Assistant apps you will learn latest technologies Google Dialoglfow v2,  -->
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+|----------|----------|----------|----------|----------|
+| Content  | Content  | Content  | Content  | Content  |
+| Content  | Content  | Content  | Content  | Content  |
+
 
 ## Objective:
 

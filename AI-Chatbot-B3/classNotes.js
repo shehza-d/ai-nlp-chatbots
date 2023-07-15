@@ -17,6 +17,16 @@ operator persedence
 
 type="Module" is not accessible outside its scope
 
-
+IIFE
+https://en.wikipedia.org/wiki/Immediately_invoked_function_expression
+to run
+!function () { }();
+~function () { }();
+-function () { }();
++function () { }();
+void function () { }();
+delete function () { }();
+typeof function () { }();
+await function () { }();
 
 */

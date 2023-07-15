@@ -8,18 +8,12 @@
 |:------------- |:----------|
 | Prerequisites | Basic programming knowledge | List all new or modified files |
 | Instructor | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
-| Duration | 6 Months|
+| Duration | 6 Months |
 
 <p align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" />
 <img height='50' width='50' src="./readme-assets/icons/dialogflow.png"/><img height='50' width='50' src="./readme-assets/icons/open-ai-10px.png"/></p>
 
  <!-- Google Assistant apps you will learn latest technologies Google Dialoglfow v2,  -->
-
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
-|----------|----------|----------|----------|----------|
-| Content  | Content  | Content  | Content  | Content  |
-| Content  | Content  | Content  | Content  | Content  |
-
 
 ## Objective:
 
@@ -63,12 +57,17 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     |Loop Statements |For loop, map|
     |ES6 functions|
 
-1.  [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
-    - Basic introduction to react
-    - Chatbot popup using react-chat-widget in existing react.js web app
-    - CRUD operation in ReactJs
-    - Chat app with ReactJs.
-    - React.js is not fully covered in this course!
+1. [REST API design principles](https://www.ibm.com/topics/rest-apis)
+
+    Theory of
+
+    - Rest APIs
+    - http and https
+    - What is [Stateless](https://www.interviewbit.com/blog/gradle-vs-maven/)?
+    - What is [Caching](https://aws.amazon.com/caching/)?
+    - [Micro service architecture](https://cloud.google.com/learn/what-is-microservices-architecture)
+    - [Ninon service architecture](https://techbeacon.com/app-dev-testing/nanoservices-where-they-fit-where-they-dont) (AWS Lambda)
+
 1.  Writing JavaScript `Servers` with and `Express.js/Node.js` (4 weeks)
 
     - Introduction to Servers
@@ -76,11 +75,22 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - Express.js middleware
     - Express.js Static file server
 
+1. Hosting Node Servers
+    - [Cyclic](https://www.cyclic.sh/) (1 free app without Card)
+    - [Google App Engine](https://cloud.google.com/appengine) (Unlimited free apps with card)
+
 1.  &nbsp;[`MongoDB`](https://learn.mongodb.com/)
- 
+
     - Introduction to MongoDB Database
     - MongoDB Schema and model
     - MongoDB CRUD Operation
+
+1.  [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
+    - Basic introduction to react
+    - Chatbot popup using react-chat-widget in existing react.js web app
+    - CRUD operation in ReactJs
+    - Chat app with ReactJs.
+    - React.js is not fully covered in this course!
 
 1.  `Dialogflow` V2 (4 weeks)
     - Intent
@@ -136,4 +146,4 @@ Fiverr and Upwork (how to do freelancing is not covered in this course)
 
 <br><hr>
 
-<h3 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h3>
+<h4 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h4>

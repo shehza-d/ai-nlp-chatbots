@@ -37,7 +37,8 @@ Scalability: if i increase resources (i.e processor or RAM) the code execution t
 horizontal scaling involves adding more machines or nodes to a system, while vertical scaling involves adding more power (CPU, RAM, storage, etc.) to an existing machine.
 
 
-
+25-sep 
+dialogflow cx started
 
 
 

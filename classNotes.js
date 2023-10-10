@@ -45,6 +45,8 @@ dialogflow cx started
 10-oct 
 voice first 
 
+Fulfillment = any kind of response from chatbot
+
 
 
 

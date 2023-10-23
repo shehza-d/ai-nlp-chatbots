@@ -1,0 +1,114 @@
+{
+  "name": "beab521e-0d07-44c8-9ca8-1e5aa5ef5781",
+  "displayName": "Find paid ticket",
+  "form": {
+    "parameters": [ {
+      "displayName": "confirmation_number",
+      "required": true,
+      "entityType": "@sys.number",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "What is your flight confirmation number?" ]
+            },
+            "languageCode": "en"
+          } ]
+        },
+        "repromptEventHandlers": [ {
+          "event": "sys.no-input-1",
+          "triggerFulfillment": {
+            "messages": [ {
+              "text": {
+                "text": [ "Sorry, I didn't get that. Please enter or say your ticket confirmation number." ]
+              },
+              "languageCode": "en"
+            } ]
+          },
+          "name": "2f7d4c36-c102-4985-b970-8d66898f2a3d"
+        }, {
+          "event": "sys.no-input-2",
+          "triggerFulfillment": {
+            "messages": [ {
+              "text": {
+                "text": [ "In order to look up your flight information, we would need your ticket confirmation number. Please say or enter the confirmation number." ]
+              },
+              "languageCode": "en"
+            } ]
+          },
+          "name": "c9e5d184-68e2-431a-8441-75fcf4b43684"
+        }, {
+          "targetPage": "Agent handoff",
+          "event": "sys.no-input-3",
+          "triggerFulfillment": {
+            "messages": [ {
+              "text": {
+                "text": [ "You have not provided a confirmation number yet. Let me transfer you to a live agent to further assist you." ]
+              },
+              "languageCode": "en"
+            } ]
+          },
+          "name": "8d98897c-bda9-4bf3-9ee1-a81dd7dd2dca"
+        }, {
+          "event": "sys.no-match-1",
+          "triggerFulfillment": {
+            "messages": [ {
+              "text": {
+                "text": [ "Sorry, I didn't get that. Can you rephrase that?" ]
+              },
+              "languageCode": "en"
+            } ]
+          },
+          "name": "68412603-4a8f-45c8-84ff-98edb4b21a9c"
+        }, {
+          "event": "sys.no-match-2",
+          "triggerFulfillment": {
+            "messages": [ {
+              "text": {
+                "text": [ "I'm still having trouble. Can you try again?" ]
+              },
+              "languageCode": "en"
+            } ]
+          },
+          "name": "5cd91a83-a658-4ed0-99b1-063510aa90fd"
+        }, {
+          "targetPage": "Agent handoff",
+          "event": "sys.no-match-3",
+          "triggerFulfillment": {
+            "messages": [ {
+              "text": {
+                "text": [ "Let me transfer you to someone else who can help." ]
+              },
+              "languageCode": "en"
+            } ]
+          },
+          "name": "bb65370e-76fe-4e6a-beca-0278e2959371"
+        } ]
+      },
+      "advancedSettings": {
+        "dtmfSettings": {
+          "enabled": true,
+          "maxDigits": 5,
+          "useSystemEntityRule": false
+        }
+      }
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params.status = \"FINAL\"",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Thank you for the confirmation number. " ]
+        },
+        "languageCode": "en"
+      }, {
+        "text": {
+          "text": [ "\u003cspeak\u003e \u003cprosody rate=\"slow\"\u003e Here is the flight information: \u003cbreak time = \"1s\"/\u003e You have round trip ticket reservation departure from Austin on September 1st, 2022 to Boston and a return trip flying from Boston on September 10th, 2022.\u003c/speak\u003e.\n" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "edcd1441-4ed5-4a1e-8a4d-22d1579ebf3b"
+  } ]
+}

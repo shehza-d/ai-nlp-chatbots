@@ -1,0 +1,238 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "For my wedding anniversary we want to go to ",
+      "auto": true
+    }, {
+      "text": "Seattle",
+      "parameterId": "destination_city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "Christmas",
+      "parameterId": "departure_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to find ",
+      "auto": true
+    }, {
+      "text": "two",
+      "auto": true
+    }, {
+      "text": " seats to ",
+      "auto": true
+    }, {
+      "text": "Panama",
+      "parameterId": "destination_city",
+      "auto": true
+    }, {
+      "text": " City on ",
+      "auto": true
+    }, {
+      "text": "July 4th",
+      "parameterId": "departure_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to fly in my cousin from ",
+      "auto": true
+    }, {
+      "text": "Montreal",
+      "parameterId": "departure_city"
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "August 8th",
+      "parameterId": "departure_date",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Do you have any cheap flights to "
+    }, {
+      "text": "NYC",
+      "parameterId": "destination_city",
+      "auto": true
+    }, {
+      "text": " for "
+    }, {
+      "text": "this weekend",
+      "parameterId": "departure_date"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am booking a surprise trip for my mom, can you help arrange that for "
+    }, {
+      "text": "May 10th",
+      "parameterId": "departure_date"
+    }, {
+      "text": " to "
+    }, {
+      "text": "May 25th",
+      "parameterId": "return_date"
+    }, {
+      "text": " to Costa Rica"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Help me book a ticket from "
+    }, {
+      "text": "4/10",
+      "parameterId": "departure_date"
+    }, {
+      "text": " to "
+    }, {
+      "text": "4/15",
+      "parameterId": "return_date"
+    }, {
+      "text": " from "
+    }, {
+      "text": "Mexico City",
+      "parameterId": "departure_city"
+    }, {
+      "text": " to "
+    }, {
+      "text": "Medellin",
+      "parameterId": "destination_city",
+      "auto": true
+    }, {
+      "text": " Colombia please"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Book "
+    }, {
+      "text": "SFO",
+      "parameterId": "departure_city"
+    }, {
+      "text": " to "
+    }, {
+      "text": "MIA",
+      "parameterId": "destination_city"
+    }, {
+      "text": " on "
+    }, {
+      "text": "August 10th",
+      "parameterId": "departure_date"
+    }, {
+      "text": " one way"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need a flight "
+    }, {
+      "text": "saturday",
+      "parameterId": "departure_date",
+      "auto": true
+    }, {
+      "text": " from "
+    }, {
+      "text": "LAX",
+      "parameterId": "departure_city"
+    }, {
+      "text": " to "
+    }, {
+      "text": "San Jose",
+      "parameterId": "destination_city",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Four business class tickets from Taiwan to "
+    }, {
+      "text": "Dubai",
+      "parameterId": "destination_city",
+      "auto": true
+    }, {
+      "text": " for "
+    }, {
+      "text": "June 2nd",
+      "parameterId": "departure_date"
+    }, {
+      "text": "  to 30th"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "My family is visiting ",
+      "auto": true
+    }, {
+      "text": "next week",
+      "auto": true
+    }, {
+      "text": " and we need to book ",
+      "auto": true
+    }, {
+      "text": "6",
+      "auto": true
+    }, {
+      "text": " round trip tickets",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to use my reward points to book a flight from ",
+      "auto": true
+    }, {
+      "text": "Milan",
+      "parameterId": "departure_city"
+    }, {
+      "text": " in ",
+      "auto": true
+    }, {
+      "text": "October",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you book my flight to ",
+      "auto": true
+    }, {
+      "text": "San Francisco",
+      "parameterId": "destination_city",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "next month",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Book a flight",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}
